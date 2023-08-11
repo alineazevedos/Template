@@ -1,9 +1,10 @@
 # Aline Cristina de Azevedo Silva
 
-Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logística na FATEC
+Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logística na FATEC e falarei um pouco sobre mim ;)
+
 # Índice
 
-* [Projeto](#projeto-template)
+* [Formação-Acadêmica](#projeto-template)
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -15,7 +16,7 @@ Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logís
 * [Autores](#autores)
 * [Teste](#Requisitos-não-funcionais)
 
-# Projeto (API) 
+# Formação Academica
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
