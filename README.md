@@ -1,9 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aline Cristina de Azevedo Silva
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
+Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logística na FATEC
 # Índice
 
 * [Projeto](#projeto-template)
