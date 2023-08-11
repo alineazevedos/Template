@@ -4,7 +4,7 @@ Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logís
 
 # Índice
 
-* [Formação-Acadêmica](#projeto-template)
+* [Formação Acadêmica](#projeto-template)
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
