@@ -5,7 +5,7 @@ Sou Engenheira de Produção em transição para a área de Logística e Dados, 
 # Índice
 
 * [Formação Acadêmica](#formação-acadêmica)
-* [Micro Certificações](#badges)
+* [Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
@@ -26,8 +26,15 @@ Tecnologia em Logística
 Faculdade de Tecnologia do Estado de São Paulo (FATEC)
 Previsão de conclusão: 2028
 
-# Micro Certificações
-Futuramente
+# Certificações
+
+Treinamento de Excel Aplicado à Engenharia
+Lean Solutions
+Emitido em: maio de 2018
+
+Análise de Dados com Excel e Power BI
+Escola DNC
+Emitido em: setembro de 2024
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
