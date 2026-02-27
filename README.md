@@ -26,6 +26,8 @@ Emitido em: setembro de 2024
 
 ## ANÁLISE GEOGRÁFICA DOS FLUXOS DE TRANSPORTES - ORIGEM AO DESTINO
 
+Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
 - ### Introdução
      Mapeamento de dados coletados pelo site do governo, possibilitando a análise do fluxo de transporte de mercadorias exportadas, análise geográfica do fluxo de exportações do estado de São Paulo.
 
