@@ -37,7 +37,7 @@ Emitido em: setembro de 2024
      Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
 
-- ### FUNCIONALIDADES E REGISTROS DAS SPRINTS
+- ### REGISTRO DO PROJETO
 
 Apresentação do MVP:<p align="center">
 
