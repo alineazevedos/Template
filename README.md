@@ -1,6 +1,6 @@
 # Aline Cristina de Azevedo Silva
 
-Olá, meu nome é Aline, tenho 25 anos e sou graduanda do 1ª semestre de Logística na FATEC e falarei um pouco sobre mim ;)
+Sou Engenheira de Produção em transição para a área de Logística e Dados, atualmente cursando Logística e desenvolvendo habilidades em análise de dados com foco em Power BI, SQL e Python. Possuo experiência prévia na área comercial, com forte visão analítica, foco em melhoria de processos e tomada de decisão orientada por dados. Busco aplicar tecnologia e análise estratégica para otimização de processos logísticos e geração de valor para o negócio.
 
 # Índice
 
